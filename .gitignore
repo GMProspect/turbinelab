@@ -1,0 +1,12 @@
+# Local working files and backups are not part of the project overview.
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.log
+*.bundle
+/backups/
+/private/
+node_modules/
+*.map
+.env
+.env.*
